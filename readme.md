@@ -2,7 +2,7 @@
 ## [Live @](https://aromal-seo-page.netlify.app/)
 
 ## 1.Laptop
-![image](./Laptop.png.png)
+![image](./Laptop.png)
 ## 2.Mobile
 ![image](./Mobile.png)
 
